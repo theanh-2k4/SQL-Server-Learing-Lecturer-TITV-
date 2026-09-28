@@ -13,3 +13,4 @@
 * 24/9/2026 Execution Order, CTE IN SQL - DONE
 * 25/9/2026 Window Function IN SQL - DONE
 * 27/9/2026 Command Categories, Create Database IN SQL - DONE
+* 28/9/2026 Data Type, CREATE, ALTER, DROP TABLE and INSERT INTO IN SQL - DONE
