@@ -1,0 +1,8 @@
+--DML gồm các câu lệnh chèn, cập nhật, xóa, truy vấn.
+--INSERT INTO, UPDATE, DELETE, SELECT
+--DDL các câu lênh định nghĩa cấu trúc csdl, gồm các bảng, cột, chỉ mục, ràng buộc
+--(CREATE, ALTER, DROP)_(TABLE, INDEX), (CREATE, DROP)_CONSTRAINT 
+--DCL sử dung để kiểm soát quyền truy cập vào csdl, gồm các lệnh cấp phép và thu hồi quyền
+--GRANT, REVOKE
+--TCL quản lý giao dịch trong csdl, gồm các câu lệnh bắt đầu, xác nhận, hoàn tác giao dịch
+--(BEGIN, COMMIT, ROLLBACK)_TRANSACTION

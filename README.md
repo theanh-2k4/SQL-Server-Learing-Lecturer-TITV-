@@ -11,3 +11,5 @@
 * 21/9/2026 INNER, RIGHT, LEFT, FULL JOIN IN SQL - DONE
 * 23/9/2026 SUBQUERY IN SQL - DONE
 * 24/9/2026 Execution Order, CTE IN SQL - DONE
+* 25/9/2026 Window Function IN SQL - DONE
+* 27/9/2026 Command Categories, Create Database IN SQL - DONE
