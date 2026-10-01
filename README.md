@@ -14,3 +14,4 @@
 * 25/9/2026 Window Function IN SQL - DONE
 * 27/9/2026 Command Categories, Create Database IN SQL - DONE
 * 28/9/2026 Data Type, CREATE, ALTER, DROP TABLE and INSERT INTO IN SQL - DONE
+* 1/10/2026 SELECT INTO, DELETE, UPDATE IN SQL - DONE 
